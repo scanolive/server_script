@@ -1,0 +1,5 @@
+alias gs='git status'
+alias ga='git add ./ '
+alias gm='git commit -m '
+alias gr='git remote '
+alias gl='git log  --oneline --decorate --all --graph'
